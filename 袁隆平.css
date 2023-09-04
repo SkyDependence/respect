@@ -1,0 +1,82 @@
+img {
+    display: block;
+    margin-top: 3em;
+}
+
+figcaption {
+    margin: 1em;
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+#image {
+    height: auto;
+    max-width: 100%;
+}
+
+h1, p {
+    text-align: center;
+}
+
+main {
+    width: 80%;
+    background-color: rgb(239, 242, 240);
+    margin: auto;
+}
+
+ul li {
+    padding: 1em;
+    text-align: left;
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 0;
+    padding-top: 1em;
+}
+
+p {
+    padding: 0em;
+    font-size: 15px;
+}
+
+#tribute-info {
+    width: 70%;
+    margin: auto;
+}
+
+* {
+    border-radius: 10px;
+}
+
+i {
+    display: block;
+    padding: 0.5em;
+}
+
+#quote {
+    padding-top: 0.5em;
+}
+
+strong {
+    padding: 2em;
+    font-size: 20px;
+}
+
+#link {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    color: rgb(162, 142, 183);
+}
